@@ -1,7 +1,7 @@
 import { useState } from 'react';
 
 function home(){
-    return <div>Home 4</div>
+    return <div>Página Inicial</div>
 }
 
 export default home
